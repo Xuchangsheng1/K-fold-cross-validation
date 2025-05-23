@@ -6,6 +6,7 @@ import shutil
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import KFold
 
+# classname exemple input
 classname_to_id = {'cat': 1, 'dog': 2}
 
 class Lableme2CoCo:
